@@ -2,7 +2,6 @@
 #define __COMPLEX__
 
 // 前置声明
-#include <cmath>
 #include <iostream.h>
 
 // 类-声明
