@@ -45,3 +45,17 @@ String::~String(ps);
 // 释放内存(free(ps))清除指针
 operator delete(ps);
 ```
+
+## static
+
+```c++
+class Account
+{
+  public:
+    static double m_rate;
+    static void set_rate(const double& x) { };
+};
+
+// static数据需要初始化
+double Account::m_rate = 9.0
+```
