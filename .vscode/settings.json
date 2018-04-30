@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.js": "javascript",
+    "*.san": "san",
+    "iostream": "cpp"
+  }
+}
